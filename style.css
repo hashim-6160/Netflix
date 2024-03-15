@@ -214,6 +214,7 @@ section.first>div :nth-child(2) {
 
 .faq h2 {
     text-align: center;
+    justify-content: center;
     font-size: 48px;
     font-weight: 900;
     line-height: 100px;
